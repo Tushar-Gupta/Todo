@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_7eed78f245031f2038b8eb1c4b782b7f4efd76f5.jar" />
+    </item>
+    <item
+        jar="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_5da1569c80079228819bcbcb9d9be5514657b51d.jar" />
+    </item>
+    <item
+        jar="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ad55ac7873936628a26ae455b22a96abc9ff48d2.jar" />
+    </item>
+    <item
+        jar="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_cc99d50460f57a10933abcdbf075a20c47a3e6dd.jar" />
+    </item>
+    <item
+        jar="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_cdb1531d9c5182667b4889f889d8fadb2538d9c7.jar" />
+    </item>
+    <item
+        jar="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_e61ad9f67dfdfaa794a333d658fa263b5d61261f.jar" />
+    </item>
+    <item
+        jar="/Users/tushar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_8c715e6e27404cd3feaee8d6afcf77048efdb925.jar" />
+    </item>
+    <item
+        jar="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_45d1005a2c838657fdb4e2005e04e52a63b40e3c.jar" />
+    </item>
+    <item
+        jar="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_c008f992a20d43bda3de97cd11b4a3a90688f8e1.jar" />
+    </item>
+    <item
+        jar="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_c3397697bf3ee33190b5e7b7d87793d52f98984d.jar" />
+    </item>
+    <item
+        jar="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_14198bdada1d34faa4508963567f4b638384dcba.jar" />
+    </item>
+    <item
+        jar="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_c8befb7caf6f29ccbf15a44d503af4ba12549901.jar" />
+    </item>
+    <item
+        jar="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_cddb984120de3216b3fec1f1f3ae7d926f56cf91.jar" />
+    </item>
+    <item
+        jar="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_7c9fa7fab4abae5f95ddc27d0ce14b83cb1c63a7.jar" />
+    </item>
+    <item
+        jar="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_f22d1ea64e4808a36c51a13adc36390de809c6e0.jar" />
+    </item>
+    <item
+        jar="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/tushar/Work/AndroidStudioProjects/Todo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_47fbdafa5e44e309525578e36be2dde3894a060d.jar" />
+    </item>
+
+</items>
